@@ -1,1 +1,1 @@
-# Yoga
+Yoga Blog Page
